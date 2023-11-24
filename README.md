@@ -11,11 +11,11 @@ You can create a new Conda environment using the command:
 conda env create -f environment.yml
 ```
 3. Training：
-- Before the training, please download the dataset and copy it into the folder "datasets".
---datasets
-----crack500
-----CrackForest
-----DeepCrack
+- Before the training, please download the dataset and copy it into the folder "datasets".<br>
+--datasets<br>
+----crack500<br>
+----CrackForest<br>
+----DeepCrack<br>
 - Check the hyperparameters of CAC training in ./options/base_options.py and ./options/train_options.py.
 - Training CAC model by meta_train_with_crack500.py
 ``` 
@@ -26,7 +26,8 @@ python meta_train_with_crack500.py
 ``` 
 python test_meta_with_crack500.py
 ```
-Notes: the testing dataset name can be replaced in python file test_meta_with_crack500.py.
+Notes: the testing dataset name can be replaced in python file test_meta_with_crack500.py.<br>
+
 5. Evaluation：
 
 ``` 
