@@ -3,7 +3,7 @@
 ​A Pytorch implementation of Weakly Supervised Crack Segmentaion projects.
 
 1. Datasets：Crack500, CrackForest, DeepCrack. <br>
-Notes：please download the corresponding dataset and prepare it by following the guidance.
+Notes：please download the corresponding dataset and prepare it by following the [guidance](http://url.com).
 2. Installation：
 You can create a new Conda environment using the command:
 
