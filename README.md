@@ -1,4 +1,4 @@
-#CAC:Confidence-Aware Co-training Methods for Weakly Supervised Crack Segmentation 
+# CAC:Confidence-Aware Co-training Methods for Weakly Supervised Crack Segmentation 
 
 ​A Pytorch implementation of Weakly Supervised Crack Segmentaion projects.
 
