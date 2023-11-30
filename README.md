@@ -1,9 +1,9 @@
-# CAC:Confidence-Aware Co-training Methods for Weakly Supervised Crack Segmentation 
+# CAC:Confidence-Aware Co-training for Weakly Supervised Crack Segmentation 
 
 ​A Pytorch implementation of Weakly Supervised Crack Segmentaion projects.
 
 1. Datasets：Crack500, CrackForest, DeepCrack. <br>
-Notes：please download the corresponding dataset and prepare it by following the [guidance]([http://url.com](https://pan.baidu.com/s/1iG5BarMg4ybBOpcUSvQexg?pwd=v5cb).
+Notes：please download the corresponding dataset and prepare it by following the [guidance]([https://pan.baidu.com/s/1iG5BarMg4ybBOpcUSvQexg?pwd=v5cb]).
 提取码：v5cb
 2. Installation：
 You can create a new Conda environment using the command:
